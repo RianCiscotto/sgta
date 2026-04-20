@@ -33,7 +33,7 @@ end
 # Unset irrelevant variables.
 deactivate nondestructive
 
-set -gx VIRTUAL_ENV 'C:\Users\FUSVE\Desktop\SGTA\backend\venv'
+set -gx VIRTUAL_ENV 'C:\Users\FUSVE\Desktop\p1 sgta\sgta\backend\venv'
 
 set -gx _OLD_VIRTUAL_PATH $PATH
 set -gx PATH "$VIRTUAL_ENV/"Scripts $PATH
